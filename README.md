@@ -21,8 +21,8 @@ Written in **Placeholder**
    - MVC (Model View Controller)
 
 3. Programming Languages/Frameworks:
-
-   - Placeholder
+   - Java (NetBeans configured for java 26)
+   - MySQL
 
 ## Instructions
 
@@ -39,9 +39,14 @@ Written in **Placeholder**
 
 "Group members and lecturer"
 
+Chantele Fermino Mucuio 202331627
+Casner Jordan Klein 202352086
+Buhle Njaza 202306242
+Lukhona Gxabhu 202439120 
+
 [Melvin Kisten](https://github.com/iammelvink 'Melvin Kisten\'s GitHub page')
 
-GitHub: @"Group members"
+GitHub:  @chacha-debugm, @CasnerJ-Klein, @gxabulukhona-sudo, @BuhleDev153
 
 LinkedIn: [Melvin Kisten](https://www.linkedin.com/in/iammelvink 'Melvin Kisten\'s LinkedIn page')
 
