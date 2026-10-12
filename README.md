@@ -32,7 +32,7 @@ Written in Java
    [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)') `to save storage space`
 
    ```sh
-   git clone https://github.com/iammelvink/NPRT63.git --depth=1
+   git clone https://github.com/chacha-debug/NPRT63.git --depth=1
    ```
 
 ## Author(s)
