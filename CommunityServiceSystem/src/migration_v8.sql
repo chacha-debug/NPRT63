@@ -1,0 +1,5 @@
+-- Community Service+ v8 NGO profile extension.
+-- Existing installations do not need to run this manually: SchemaUpdater adds
+-- these columns conditionally at startup.
+-- New columns: ngos.operating_region, org_scale, mission_statement,
+-- focus_areas, preferred_skills.
