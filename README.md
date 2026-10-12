@@ -9,7 +9,7 @@
 
 This is the codebase produced for the Project course
 
-Written in **Placeholder**
+Written in Java
 
 1. Methodologies/Project Management:
 
@@ -40,8 +40,11 @@ Written in **Placeholder**
 "Group members and lecturer"
 
 Chantele Fermino Mucuio 202331627
+
 Casner Jordan Klein 202352086
+
 Buhle Njaza 202306242
+
 Lukhona Gxabhu 202439120 
 
 [Melvin Kisten](https://github.com/iammelvink 'Melvin Kisten\'s GitHub page')
